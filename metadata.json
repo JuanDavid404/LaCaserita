@@ -1,0 +1,6 @@
+{
+  "name": "La Caserita - App de Delivery de Mercados Locales",
+  "description": "Página web oficial de La Caserita: conecta a vecinos con los puestos de verdura y fruta de su mercado local. Frescura del día en 60 minutos con delivery en mototaxi y pago con Yape/Plin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
